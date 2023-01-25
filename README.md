@@ -1,4 +1,4 @@
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/593257800.svg)](https://zenodo.org/badge/latestdoi/593257800)
 ![publication](https://img.shields.io/badge/status-in%20review-orange)
 
 # The influence of weather on the population dynamics of common mosquito vector species in the Canadian Prairies
