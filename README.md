@@ -5,14 +5,14 @@
 
 *Submitted to Parasites & Vectors 2022*
 
-Cole Baril<sup>1</sup>, Ben G. Pilling<sup>1</sup>, Milah J. Mikkelsen<sup>1</sup>, Jessica M. Sparrow<sup>1</sup>, Carlyn A. M Duncan<sup>1</sup>, Cody W. Koloski<sup>1</sup>, [Stefanie E. LaZerte](https://steffilazerte.ca)<sup>1,2</sup>, Bryan J. Cassone<sup>1</sup>*
+Cole Baril<sup>1</sup>, Ben G. Pilling<sup>1</sup>, Milah J. Mikkelsen<sup>1</sup>, Jessica M. Sparrow<sup>1</sup>, Carlyn A. M Duncan<sup>1</sup>, Cody W. Koloski<sup>1</sup>, [Stefanie E. LaZerte](https://steffilazerte.ca)<sup>1,2</sup>, [Bryan J. Cassone](https://www.cassonelab.com/)<sup>1</sup>*
 
 <sup>*</sup> Corresponding Author  
 <sup>1</sup> Department of Biology, Brandon University, Brandon, MB R7A 6A9, Canada  
 <sup>2</sup> Steffi LaZerte R Programming and Biological Consulting, Brandon, Manitoba  
 
 
-> Please contact Bryan Cassone for questions regarding this paper and 
+> Please contact [Bryan Cassone](mailto:cassoneb@brandonu.ca) for questions regarding this paper and 
 > Steffi LaZerte ([@steffilazerte](https://github.com/steffilazerte)) regarding 
 > problems running these scripts.
 
