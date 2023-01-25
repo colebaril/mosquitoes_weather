@@ -1,11 +1,5 @@
-# Mosquitoes analysis
-
-This is a private repository containing all scripts, data and results for the analysis
-of mosquito trap counts in Manitoba for Dr. Bryan Cassone and MSc student Cole Baril
-at Brandon University.
-
-[![DOI](https://zenodo.org/badge/512893660.svg)](https://zenodo.org/badge/latestdoi/512893660)
-[![publication](https://img.shields.io/badge/status-published-green)](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4316)
+[![DOI]()]()
+![publication](https://img.shields.io/badge/status-in%20review-orange)
 
 # The influence of weather on the population dynamics of common mosquito vector species in the Canadian Prairies
 
