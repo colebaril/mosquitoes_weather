@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/593257800.svg)](https://zenodo.org/badge/latestdoi/593257800)
-![publication](https://img.shields.io/badge/status-in%20review-orange)
+[![publication](https://img.shields.io/badge/status-published-green)](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x)
 
 # The influence of weather on the population dynamics of common mosquito vector species in the Canadian Prairies
 
-*Submitted to Parasites & Vectors 2022*
+[*Published in Parasites & Vectors 2023*](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x)
 
 [Cole Baril](https://colebaril.ca/cv/)<sup>1</sup>, Ben G. Pilling<sup>1</sup>, Milah J. Mikkelsen<sup>1</sup>, Jessica M. Sparrow<sup>1</sup>, Carlyn A. M Duncan<sup>1</sup>, Cody W. Koloski<sup>1</sup>, [Stefanie E. LaZerte](https://steffilazerte.ca)<sup>1,2</sup>, [Bryan J. Cassone](https://www.cassonelab.com/)<sup>1</sup>*
 
